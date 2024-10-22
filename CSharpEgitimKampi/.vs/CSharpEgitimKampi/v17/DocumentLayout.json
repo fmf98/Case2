@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3892E13C-9B67-41F9-908A-32EB3FEFD265}|08_Methods\\08_Methods.csproj|C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892E13C-9B67-41F9-908A-32EB3FEFD265}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63598EC5-3952-4728-971F-EA15058775F3}|04_Loops\\04_Loops.csproj|c:\\users\\burak\\source\\repos\\csharpegitimkampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63598EC5-3952-4728-971F-EA15058775F3}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B169596B-489A-4A50-A0D2-67529A636839}|03_MakingDecision\\03_MakingDecision.csproj|C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B169596B-489A-4A50-A0D2-67529A636839}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E6D30-4F47-4F73-9061-D235ACF31771}|07_ForeachLoop\\07_ForeachLoop.csproj|C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E6D30-4F47-4F73-9061-D235ACF31771}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D7BFF-8A1E-4773-A32E-A72898995F99}|06_Arrays\\06_Arrays.csproj|C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D7BFF-8A1E-4773-A32E-A72898995F99}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeToolTip": "04_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:09:55.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:09:30.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:58:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:24:35.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:53:22.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
