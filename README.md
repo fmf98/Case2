@@ -1,5 +1,5 @@
 *💻C# Eğitim Kampı Projeleri
-Bu repo, Murat Yücedağ'ın C# Eğitim Kampı eğitiminde aldığım ilk 8 dersin projelerini içermektedir. Eğitim detaylarını aşağıda bulabilirsiniz:*
+Bu repo, Murat Yücedağ'ın C# Eğitim Kampı eğitiminde aldığım ilk 8 dersin projelerini içermektedir. Eğitim detaylarını aşağıda bulabilirsiniz:
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 📌Proje 1: Merhaba Dünya
 Bu projede C# ile Console.Write-WriteLine(); gibi komutlarla yazı yazmayı ve Console.Read-ReadLine(); gibi komutlarla yazdığımız verileri okutmayı öğrendim.
@@ -25,3 +25,6 @@ Bu projede foreach döngüsü kullanarak verileri işlemeyi denedim. Öğrencile
 📌Proje 8: Metotlar
 Bu projede geriye değer döndüren ve döndürmeyen metotları öğrendim. Metotlar içerisinde oluşturduğum değişkenleri kullanıcıdan aldığım değerlere atayarak uygulamalar yaptım.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+# Case 3
+![ScreenShotForCase](https://github.com/user-attachments/assets/c8d3e9fa-92ca-4c20-b60a-dd6184d3716c)
+Bu Projede Entity Framework metotlarını kullanarak oluşturduğumuz windows form tablosuna veri tabanımızdaki bilgileri sorgularla yansıttık.
